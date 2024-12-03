@@ -1,7 +1,8 @@
 import {NativeStackNavigationProp} from '@react-navigation/native-stack';
+import {Character} from '../../types/characters.types';
 
 export type CharacterDetailsStackParamList = {
-  CharacterDetailsScreen: undefined;
+  CharacterDetailsScreen: {character: Character};
 };
 
 export type CharacterDetailsStackNavigationProp =
