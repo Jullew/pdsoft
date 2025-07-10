@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DMMono.ttf",
+      "sha1": "6416a3884c1058399e69461668b560ee49fa9325"
+    },
+    {
+      "path": "src/assets/fonts/Inter.ttf",
+      "sha1": "ee5c2e22ffeddefc433c9aa4c76779bb73a5c682"
+    }
+  ]
+}
